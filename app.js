@@ -241,4 +241,9 @@
 // var a = "abc,yugy,ug,7777"
 // console.log(a.split(","));
 
-
+let i = 0
+while (i < 10){
+    i++
+    console.log(i);
+}
+    
