@@ -302,6 +302,7 @@
 // console.log(a);
 
 
+      
 
 
 
@@ -430,18 +431,22 @@
 
 
 
+// function greetUser(){
+//     console.log("Hello, welcome to our website!");
+// }
 
-function greetUser(){
-    console.log("Hello, welcome to our website!");
-}
 
+// function changeImage(car){
 
-function changeImage(car){
-
-    car.src = "https://i.pinimg.com/736x/d7/c1/b7/d7c1b7f834bf4b6505b5778dc81866ab.jpg"
-}
+//     car.src = "https://i.pinimg.com/736x/d7/c1/b7/d7c1b7f834bf4b6505b5778dc81866ab.jpg"
+// }
     
 
-function prevImage(car){
-    car.src = "https://i.pinimg.com/236x/6f/ac/d5/6facd5f4d2183deaed6cad63882a4d88.jpg"
+// function prevImage(car){
+//     car.src = "https://i.pinimg.com/236x/6f/ac/d5/6facd5f4d2183deaed6cad63882a4d88.jpg"
+// }
+
+function makeBorder(ab) {
+    ab.className = "circle"
+    
 }
