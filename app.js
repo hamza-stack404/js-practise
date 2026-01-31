@@ -446,7 +446,20 @@
 //     car.src = "https://i.pinimg.com/236x/6f/ac/d5/6facd5f4d2183deaed6cad63882a4d88.jpg"
 // }
 
-function makeBorder(ab) {
-    ab.className = "circle"
+// function makeBorder(ab) {
+//     ab.className = "circle"
     
-}
+// }
+
+// let box = document.getElementById("box")
+
+// function Hide() {
+
+//     box.style.display = "none"
+// }
+
+let click = document.getElementById("click")
+
+function creteShape(shape){
+    click.className = shape
+}   
