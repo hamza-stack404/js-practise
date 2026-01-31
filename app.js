@@ -241,9 +241,207 @@
 // var a = "abc,yugy,ug,7777"
 // console.log(a.split(","));
 
-let i = 0
-while (i < 10){
-    i++
-    console.log(i);
+// let i = 0
+// while (i < 10){
+//     i++
+//     console.log(i);
+// }
+
+// let i = 0
+// do {
+//     console.log(i);
+//     i++;
+// } while (i < 5);
+
+// var a = "Hello World"
+// var a = 12345
+// a = a.toLowerCase()
+// a = a.toUpperCase()
+// a = a.toString()
+// console.log(a);
+
+// var a = "ahmed"
+
+// var firstLetter = a.slice(0,1)
+// firstLetter = firstLetter.toUpperCase()
+
+// var otherletter = a.slice(1)
+// otherletter = otherletter.toLowerCase()
+
+// var fullName = firstLetter + otherletter
+// console.log(fullName);
+
+// var a = "Hello, world!"
+// a = a.substring(7)
+// console.log(a);
+
+// var a = "Hello, world!"
+// a = a.charAt(7)
+// console.log(a);
+
+// var a = 5858.987594
+// a = Math.round(a)
+// console.log(a);
+
+
+// var a = 5.1
+// a = Math.ceil(a)
+// console.log(a);
+
+
+// var a = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+// a = a.replaceAll(" ", "_")
+// console.log(a);
+
+
+// var a = Math.random()
+// console.log(a);
+
+// var a = prompt("Enter your age:")
+// a = parseInt(a)
+// console.log(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function greetUser(){
+    console.log("Hello, welcome to our website!");
+}
+
+
+function changeImage(car){
+
+    car.src = "https://i.pinimg.com/736x/d7/c1/b7/d7c1b7f834bf4b6505b5778dc81866ab.jpg"
 }
     
+
+function prevImage(car){
+    car.src = "https://i.pinimg.com/236x/6f/ac/d5/6facd5f4d2183deaed6cad63882a4d88.jpg"
+}
