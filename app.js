@@ -301,12 +301,16 @@
 // a = parseInt(a)
 // console.log(a);
 
+// var a = "12345" 
+// a = a.substring(0,3)
+// conso
 
-      
 
-
-
-
+let student = {
+    firstName: "ali",
+    lastName: "ahmed"
+}
+console.log(student);
 
 
 
@@ -458,8 +462,15 @@
 //     box.style.display = "none"
 // }
 
-let click = document.getElementById("click")
+// let click = document.getElementById("click")
 
-function creteShape(shape){
-    click.className = shape
-}   
+// function creteShape(shape){
+//     click.className = shape
+// }   
+
+
+// let inp = document.getElementById("inputField")
+
+// function addToList(){
+//     console.log(    inp.value);
+// }
