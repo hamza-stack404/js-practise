@@ -306,20 +306,98 @@
 // conso
 
 
-let student = {
+// let student = {
+//     firstName: "ali",
+//     lastName: "ahmed"
+// }
+// student.age= 21
+// delete student.age
+// console.log(student);
+
+let student1 = {
     firstName: "ali",
-    lastName: "ahmed"
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
 }
-console.log(student);
+
+let student2 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student3 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student4 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student5 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student6 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student7 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student8 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student9 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
+let student10 = {
+    firstName: "ali",
+    lastName: "ahmed",
+    rollno: 123,
+    contact: 9038943483,
+    CNIC: 42424808980
+
+}
 
 
-
-
-
-
-
-
-
+let Data =[student1, student2, student3, student4, student5, student6, student7, student8, student9, student10]
 
 
 
