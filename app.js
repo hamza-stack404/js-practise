@@ -306,7 +306,7 @@
 // conso
 
 
-// let student = {
+// let student = {   
 //     firstName: "ali",
 //     lastName: "ahmed"
 // }
@@ -314,108 +314,134 @@
 // delete student.age
 // console.log(student);
 
-let student1 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-
-let student2 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student3 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student4 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student5 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student6 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student7 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student8 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student9 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
-let student10 = {
-    firstName: "ali",
-    lastName: "ahmed",
-    rollno: 123,
-    contact: 9038943483,
-    CNIC: 42424808980
-
-}
 
 
-let Data =[student1, student2, student3, student4, student5, student6, student7, student8, student9, student10]
+// let object = {
+//     id:3932 ,
+//     age:32,
+//     name:"ahmed"
+// }
+
+// let requriredKeys = ["firstName", "LastName", "contact", "rollNumber"]
 
 
 
 
+// let Data = [
+//     {
+//         id: 39048023,
+//         age: 33,
+        
+//     },
+
+//     {
+//         id: 439024923,
+//         age:23
+//     },
+
+//     {
+//         id:842084230942,
+//         age:44
+//     }
+// ]
+
+// function render(){
+//     Data.innerHTML = ""
+//     for (let i = 0; i < Data.length; i++) {
+//         let obj = 
+//     }
+// }
+
+
+// let obj = {
+//     id:34,
+//     name: "hewuifw",
+//     age:23
+
+// }
+
+// console.log(obj);
+// console.log(Object.keys(obj));
+// console.log(Object.values(obj));
+// console.log(Object.entries(obj));
+
+
+// let obj = {}
+
+// let FirstName = document.getElementById("firstName")
+// let LastName = document.getElementById("lastName")
+// let Email = document.getElementById("email")
+// let Phone = document.getElementById("phone")
+// let Address = document.getElementById("address")
+
+
+// function submitData(){
+//     obj.FirstName = FirstName.value
+//     obj.LastName = LastName.value
+//     obj.Email = Email.value
+//     obj.Phone = Phone.value
+//     obj.Address = Address.value 
+//     console.log(obj);
+    // localStorage.setItem("test", "testing strings")
+
+    
+    // let student = JSON.stringify(obj)
+    // console.log(student);
+    // localStorage.setItem("student", student)
+
+
+    // let data = localStorage.getItem("student")
+    // console.log(data);
+
+
+    // if (data) {
+    //     data = JSON.parse(data)
+    //     data.push(obj)
+    //     data = JSON.stringify(data)
+    //     localStorage.setItem("student", data)   
+    // }else{
+    //     let arr = [obj]
+    //     arr = JSON.stringify(arr)
+    //     localStorage.setItem("student", arr)
+    // }
+
+    
+    // let data = sessionStorage.getItem("student")
+    // console.log(data);
+
+    // if (data) {
+    //     data = JSON.parse(data)
+    //     data.push(model)
+    //     data = JSON.stringify(data)
+    //     sessionStorage.setItem("students", data)
+
+    // } else {
+    //     let arr = [model]
+    //     arr = JSON.stringify(arr)
+    //     sessionStorage.setItem("students", arr)
+    // }
+    
+    
+
+
+
+// }
+
+
+// let data = localStorage.getItem("test")
+// console.log(data)
+
+// let std = localStorage.getItem("student")
+// std = JSON.parse(std)
+// console.log(std);
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+// let arrfunc = (a,b) =>{
+//     return a + b
+// }
+// arrfunc(5, 10)
 
 
 
@@ -552,3 +578,9 @@ let Data =[student1, student2, student3, student4, student5, student6, student7,
 // function addToList(){
 //     console.log(    inp.value);
 // }
+
+
+
+
+
+
